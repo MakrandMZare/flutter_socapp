@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "723855631556",
+    "project_id": "soc-ment-app",
+    "storage_bucket": "soc-ment-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723855631556:android:55a169d502b7330d11d591",
+        "android_client_info": {
+          "package_name": "in.gopalstudio.socmentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723855631556-m77qd9hcnftdo2a2fc3787erqmcj7m99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHshtZ8sD-WwYrPLWAQK3VtZ4voqVlrik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723855631556-m77qd9hcnftdo2a2fc3787erqmcj7m99.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "723855631556-k1pd8o3hhnq5apt5gal28dc80maflfia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.gopalstudio.soc-ment-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
